@@ -4,6 +4,7 @@ title: Simone Weil
 
 # 🌱😇
 *Date Created: Friday 20th May 2022*
+
 *Condition: my scattered thoughts about an incredible woman who wrote things which are working on me.*
 
 ---

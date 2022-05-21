@@ -4,6 +4,7 @@ title: The Subversive Simone Weil
 
 # 📖 ✊✌️
 *Date Created: Friday 20th May 2022*
+
 *Condition: unedited annotations from a book about [[Simone Weil]]*
 
 ---

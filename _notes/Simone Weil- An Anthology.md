@@ -4,6 +4,7 @@ title: Simone Weil- An Anthology
 
 # 📖🌞
 *Date Created: Friday 20th May 2022*
+
 *Condition: unedited annotations from a book by [[Simone Weil]]*
 
 ---
