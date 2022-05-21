@@ -15,11 +15,22 @@ sino estelas en la mar.”
 
 --> Antonio Machado
 
-> To be whole is to be part; true voyage is return
+Here's a quick guide to this place.
+Click a note like this one: [[Simone Weil]] to go to there. Every note has a title, an emoji indicating the type, and a brief explanation of what this note is doing.
 
---> Ursula K Le Guin, *The Dispossessed*
+Flora populates the landscape here:
+🌱= New, uncertain ideas
+🪴= Growing ideas
+🌻= Fully formed ideas (shorter, sweeter)
+🌵= fully formed ideas (longer, tougher)
+ ... and many more
 
+These locations may help you navigate:
+🗺️= maps and guides
+❔= questions being investigated
+📖 =  other references
 
-Some paths to follow:
+Some startng paths:
 [[Simone Weil]]
 
+[[purpose of this site]]
