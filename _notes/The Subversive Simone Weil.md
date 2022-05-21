@@ -2,10 +2,11 @@
 title: The Subversive Simone Weil
 ---
 
+# 📖 ✊✌️
 Date Created: Friday 20th May 2022
 Condition: unedited annotations from a book about [[Simone Weil]]
 
-# 📖 ✊✌️
+
 
 >““There exists an obligation towards every human being for the sole reason that he or she is a human being, without any other condition requiring to be fulfilled, and even without any recognition of such obligation on the part of the individual concerned.”” (Zaretsky, 2021, p. 8) 
 

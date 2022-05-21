@@ -2,10 +2,11 @@
 title: Gravity and Grace
 ---
 
-Date Noted: Friday 20th May 2022
-Condition: unedited annotations from a book by [[Simone Weil]]
-
 # 📖🌍
+*Date Created: Friday 20th May 2022
+Condition: unedited annotations from a book by [[Simone Weil]]*
+
+
 
 >“All the natural movements of the soul are controlled by laws analogous to those of physical gravity. Grace is the only exception.” (Weil, 2002, p. 1) 
 >

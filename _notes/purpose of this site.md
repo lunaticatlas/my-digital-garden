@@ -2,11 +2,9 @@
 title: purpose of this site
 ---
 
-Date Created: Friday 20th May 2022
-
 # 🌱 🗺️
-
-Condition: this is the first draft of how I intend to grow this garden.
+*Date Created: Friday 20th May 2022
+Condition: this is the first draft of how I intend to grow this garden.*
 
 ---
 

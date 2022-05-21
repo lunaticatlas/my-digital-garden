@@ -2,9 +2,10 @@
 title: Simone Weil- An Anthology
 ---
 
+# 📖🌞
 Date Created: Friday 20th May 2022
 Condition: unedited annotations from a book by [[Simone Weil]]
-# 📖🌞
+
 
 > “We have to try to cure our faults by attention and not by will.” (Weil and Miles, 2005, p. 231)
 

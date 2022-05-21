@@ -1,6 +1,10 @@
 ---
 title: entry portal
 ---
+# 🗺️
+
+Date created: Friday 20th May 2022
+Condition: a starting point
 
 >“Caminante, son tus huellas  
 el camino y nada más;  
