@@ -4,12 +4,11 @@ title: The Subversive Simone Weil
 
 # 📖 ✊✌️
 *Date Created: Friday 20th May 2022*
-
 *Condition: unedited annotations from a book about [[Simone Weil]]*
 
 ---
 
->““There exists an obligation towards every human being for the sole reason that he or she is a human being, without any other condition requiring to be fulfilled, and even without any recognition of such obligation on the part of the individual concerned.”” (Zaretsky, 2021, p. 8) 
+>““There exists an obligation towards every human being for the sole reason that he or she is a human being, without any other condition requiring to be fulfilled, and even without any recognition of such obligation on the part of the individual concerned.”” (Zaretsky, 2021, p. 8)
 
 We owe each other, only because human, whether anyone sees it or not.
 
@@ -31,17 +30,17 @@ We owe each other, only because human, whether anyone sees it or not.
 
 >“As for those apologists who insisted that Stalinism was a perversion of Marxism, Weil was merciless. “Descartes used to say that a clock out of order is not an exception to the laws governing clocks, but a different mechanism obeying its own laws. This is how we should regard Stalin’s regime: not as a worker’s state out of order, but as a different social mechanism. Its definition is found in the wheels that compose it and which functions according to the nature of those wheels.”” (Zaretsky, 2021, p. 31)
 
->“Weil makes clear she was aware of this problem. “Our personality,” she wrote, “seems to us a sort of limit . . . but it also appears to us a support, and we wish to believe there are things we would never be capable of doing or saying or thinking because it is not in our character.” This, she closes laconically, “often proves false.”” (Zaretsky, 2021, p. 35) 
+>“Weil makes clear she was aware of this problem. “Our personality,” she wrote, “seems to us a sort of limit . . . but it also appears to us a support, and we wish to believe there are things we would never be capable of doing or saying or thinking because it is not in our character.” This, she closes laconically, “often proves false.”” (Zaretsky, 2021, p. 35)
 
 This strikes me. we'd like to believe ourselves incapable of unaligned acts, or perhaps make ourselves incapable. But our environments drive us, so our conscious needs stronger barriers.
 
 >“Refuse to be an accomplice. Don’t lie—don’t keep your eyes shut.” (Zaretsky, 2021, p. 36)
 
->“The world is flush with such meanings—meanings that, in turn, fix our beliefs and acts. They sweep over us with such force, Weil writes (in English), that “my soul is no longer my own.”5 The risk of losing our souls as we read the world is especially great at times of crisis.” (Zaretsky, 2021, p. 37) 
+>“The world is flush with such meanings—meanings that, in turn, fix our beliefs and acts. They sweep over us with such force, Weil writes (in English), that “my soul is no longer my own.”5 The risk of losing our souls as we read the world is especially great at times of crisis.” (Zaretsky, 2021, p. 37)
 
 Weil uses the metaphor of ‘reading’ the world, as if it is a language of signs we can learn to interpret.
 
->“In short, the way in which we read the world turns on our particular location-moral, social, political, and economic—within the world. And the world, of course, is what humankind makes of it.” (Zaretsky, 2021, p. 38) 
+>“In short, the way in which we read the world turns on our particular location-moral, social, political, and economic—within the world. And the world, of course, is what humankind makes of it.” (Zaretsky, 2021, p. 38)
 
 This is fairly materialist: what strikes us as true in our reading of the world is defined by what we are near.
 

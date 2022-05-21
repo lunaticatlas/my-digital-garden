@@ -4,7 +4,6 @@ title: Simone Weil- An Anthology
 
 # 📖🌞
 *Date Created: Friday 20th May 2022*
-
 *Condition: unedited annotations from a book by [[Simone Weil]]*
 
 ---
@@ -20,5 +19,3 @@ I love this idea: that turning our attention to a need is the important step. We
 
 
 > “I was sustained by the faith, which I acquired at the age of fourteen, that no true effort of attention is ever wasted, even though it may never have any visible result, either direct or indirect.” (Weil and Miles, 2005, p. 282)
-
-
