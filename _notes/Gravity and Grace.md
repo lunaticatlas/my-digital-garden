@@ -3,8 +3,7 @@ title: Gravity and Grace
 ---
 
 # 📖🌍
-*Date Created: Friday 20th May 2022*
-
+*Date Noted: Friday 20th May 2022*  
 *Condition: unedited annotations from a book by [[Simone Weil]]*
 
 ---

@@ -3,8 +3,7 @@ title: entry portal
 ---
 # 🗺️
 
-*Date created: Friday 20th May 2022*
-
+*Date noted: Friday 20th May 2022*  
 *Condition: a starting point*
 
 ---
